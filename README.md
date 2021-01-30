@@ -3,13 +3,13 @@
 ## 操作步骤
 ```
 make
-chmod +x tiny
+chmod +x d
 chmod +x cgi-bin/adder
 ```
 **Run server**
 
 ```
-./tiny 8000
+./d 8000
 ```
 
 
