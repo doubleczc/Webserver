@@ -18,11 +18,11 @@ chmod +x cgi-bin/adder
 
 static page http://localhost:8000
 
-![](C:\Users\13268\Desktop\Webserver\5.PNG)
+![](https://github.com/doubleczc/Webserver/5.PNG)
 
 dynamic page http://localhost:8000/cgi-bin/adder?1&2
 
-![](C:\Users\13268\Desktop\Webserver\6.PNG)
+![](https://github.com/doubleczc/Webserver/6.PNG)
 
 
 
